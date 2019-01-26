@@ -1,0 +1,3 @@
+[submodule "800grad"]
+	path = 800grad
+	url = git@github.com:800grad/800grad_theme.git
