@@ -1,3 +1,6 @@
 [submodule "800grad"]
 	path = achthundertgrad
 	url = git@github.com:800grad/800grad_theme.git
+[submodule "quark"]
+	path = quark
+	url = https://github.com/getgrav/grav-theme-quark.git
